@@ -1,5 +1,5 @@
 # word-chart
-Small python script that scrapes a website and gives the most commonly used words.
+Small python script that scrapes a website and gives the most commonly used words from a webpage.
 
 <img src="https://puu.sh/zwCA2/92a8d70871.png" width="500px" height="300px">
 
